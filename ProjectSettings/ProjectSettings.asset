@@ -994,11 +994,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: e4e45ea4-68d6-4714-95b3-29e6819470ab
+  cloudProjectId: c3494bc9-ed39-4c52-aba9-275847367bc1
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: AR_Proje
-  organizationId: yukselr
+  organizationId: nazlicanomerogullari36
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
