@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="sayfa5" size="0.200000 0.288691" />
+    <ImageTarget name="sayfa4" size="0.200000 0.289873" />
+    <ImageTarget name="sayfa3" size="0.200000 0.286794" />
+    <ImageTarget name="sayfa2" size="0.200000 0.281669" />
+    <ImageTarget name="sayfa1" size="0.200000 0.286032" />
+  </Tracking>
+</QCARConfig>
